@@ -6,10 +6,9 @@
     - 고양이 수염사진과 원본이미지가 잘 합성되었다.
   - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개,
     퀘스트 문제 요구조건 등을 지칭 - 해당 조건을 만족하는 부분의 코드 및 결과물을 캡쳐하여 사진으로 첨부
+    ![루브릭01](https://github.com/2exponentiation10/aiffel_projects/blob/main/sticker/prt_image/01.png)
 
-    ![루브릭01](https://github.com/hyeonDD/seungyeol_aiffel/tree/main/sticker/prt_image/01.png)
-
-    ![루브릭02](https://github.com/hyeonDD/seungyeol_aiffel/tree/main/sticker/prt_image/02.png)
+    ![루브릭02](https://github.com/2exponentiation10/aiffel_projects/blob/main/sticker/prt_image/02.png)
 
 - [x] **2. 프로젝트에서 핵심적인 부분에 대한 설명이 주석(닥스트링) 및 마크다운 형태로 잘 기록되어있나요? (설명)**
 
@@ -29,7 +28,7 @@
   - [x] 모든 실험 결과가 기록되었나요?
     - 각 이미지마다 실험한 결과가 나와있다.(아래 사진 첨부)
 
-![실험사진](https://github.com/hyeonDD/seungyeol_aiffel/tree/main/sticker/prt_image/03.png)
+![실험사진](https://github.com/2exponentiation10/aiffel_projects/blob/main/sticker/prt_image/03.png)
 
 - [x] **4. 프로젝트에 대한 회고가 상세히 기록 되어 있나요? (회고, 정리)**
   - [x] 배운 점
